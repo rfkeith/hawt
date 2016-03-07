@@ -1,0 +1,9 @@
+{
+    "name" : "HAWT"
+    , "description" : ""
+    , "dependencies" : {
+        "angular" : "latest"
+        , "angular-route" : "latest"
+        , "angular-loader" : "latest"
+    }
+}

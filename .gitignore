@@ -1,0 +1,5 @@
+.gradle
+.nb-gradle
+bower_components
+node_modules
+build
